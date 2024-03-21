@@ -1,4 +1,4 @@
-![ziprus](https://github.com/collinsabu/ziprus/assets/64439462/06b343e1-23bb-4d55-83b8-c91a755008da)
+![ziprus](https://github.com/collinsabu/ziprus/assets/64439462/299074bc-168f-46af-90be-21f1216f830e)
 # Zprus: Company Website and Admin Dashboard
 
 Ziprus is a comprehensive project that serves as a company website and includes an admin dashboard for managing orders and contact form submissions. This README provides an overview of the project, its features, and instructions for installation and usage.
